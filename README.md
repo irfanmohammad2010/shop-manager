@@ -9,7 +9,9 @@ The values of date and time provided are assumed to be provided in UTC TimeZone.
 **Running the testcases** :   
 Download or clone the maven project, and run the tests.    
 
-The testcase for the source file [OpeningHours.java](src/main/java/com/irfan/billboard/main/OpeningHours.java) is [OpeningHoursTest.java](src/test/java/com/irfan/billboard/main/OpeningHoursTest.java)
+The Application testcase for the 
+source file [OpeningHours.java](src/main/java/com/irfan/billboard/main/OpeningHours.java)     
+is [OpeningHoursTest.java](src/test/java/com/irfan/billboard/main/OpeningHoursTest.java)
 
 Also there is a tescase for a helper class used to configure the shop opening days and time.  
 Source file : [ShopTimingRepo.java](src/main/java/com/irfan/billboard/repo/ShopTimingRepo.java)   
