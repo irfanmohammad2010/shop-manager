@@ -11,7 +11,7 @@ Download or clone the maven project, and run the tests.
 
 The testcase for the source file [OpeningHours.java](src/main/java/com/irfan/billboard/main/OpeningHours.java) is [OpeningHoursTest.java](src/test/java/com/irfan/billboard/main/OpeningHoursTest.java)
 
-Also there is a tescase for a helper class used to configure the shop opening days and time.
-Source file : [ShopTimingRepo.java](src/main/java/com/irfan/billboard/repo/ShopTimingRepo.java)
+Also there is a tescase for a helper class used to configure the shop opening days and time.  
+Source file : [ShopTimingRepo.java](src/main/java/com/irfan/billboard/repo/ShopTimingRepo.java)   
 TestCase : [ShopTimingRepoTest.java](src/test/java/com/irfan/billboard/repo/ShopTimingRepoTest.java)
 
